@@ -9,9 +9,10 @@ AWS, Azure, Kubernetes, Technical Support Level3, Linux, KVM, Sharepoint, Micros
 Employment
 
 Systems Engineer Level 3 - Linux and Cloud Platforms- GXA IT, Remote.   Sep 2021 - Present
--Providing Level 3 Linux base support for GXA clients. Performing and Tuning server performance/
--Resolution focusing on root cause analysis, prevention, and knowledge transfer/
--Support cloud base Deployment and solve issues in a timely manner/
+
+-Providing Level 3 Linux base support for GXA clients. Performing and Tuning server performance.
+-Resolution focusing on root cause analysis, prevention, and knowledge transfer.
+-Support cloud base Deployment and solve issues in a timely manner.
 
 <!---
 PRAGAWS/PRAGAWS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
