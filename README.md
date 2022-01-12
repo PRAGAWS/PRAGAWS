@@ -11,7 +11,9 @@ Employment
 Systems Engineer Level 3 - Linux and Cloud Platforms- GXA IT, Remote.   Sep 2021 - Present
 
 -Providing Level 3 Linux base support for GXA clients. Performing and Tuning server performance.
+
 -Resolution focusing on root cause analysis, prevention, and knowledge transfer.
+
 -Support cloud base Deployment and solve issues in a timely manner.
 
 <!---
