@@ -1,22 +1,13 @@
-Profile
+### Hi there 👋, I'm Pragatheesh Alagan
+#### MSc in Computer Science, ITIL v4, ISO 27001:2013 Lead implementor
+![MSc in Computer Science, ITIL v4, ISO 27001:2013 Lead implementor](https://media-exp1.licdn.com/dms/image/C5616AQH_w0PltPSodA/profile-displaybackgroundimage-shrink_350_1400/0/1630501743019?e=1647475200&v=beta&t=GuDo5NEGOqFCqP79ScOgclbyZvmdnFlY5yKwRCmdRN0)
 
-I am an enthusiastic and high-achieving IT professional withholding Master of Computer Science. I have exceptional customer support skills, with over 11 years of experience in Technical Support Level 3, database management, information system support and security, and network and server support. Further, I'm a certified ISO 27001 Lead implementor represented by TUV SUD and certified ITIL v4. You will find me to be a positive, motivated, and hard-working person who is keen to understand company needs and contribute. I have excellent communication skills that allow me to work effectively and positively with staff and external stakeholders.
+IT professional withholding Master of Computer Science. I have exceptional customer support skills, with over 11 years of experience in Technical Support.
 
-Skills
+Skills: AWS / Azure / GCP / Technical Support / HIPPA / GDPR
 
-AWS, Azure, Kubernetes, Technical Support Level3, Linux, KVM, Sharepoint, Microsoft Exchange, Windows Server
+- 🔭 I’m currently working on this page.
 
-Employment
 
-Systems Engineer Level 3 - Linux and Cloud Platforms- GXA IT, Remote.   Sep 2021 - Present
 
--Providing Level 3 Linux base support for GXA clients. Performing and Tuning server performance.
 
--Resolution focusing on root cause analysis, prevention, and knowledge transfer.
-
--Support cloud base Deployment and solve issues in a timely manner.
-
-<!---
-PRAGAWS/PRAGAWS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
